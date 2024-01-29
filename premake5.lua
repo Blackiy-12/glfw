@@ -10,7 +10,7 @@ project "GLFW"
 	files
 	{
 		"include/GLFW/**.h",
-		"src/glfw_config.h",
+		"src/**.h",
 		"src/**.c",
 	}
 
